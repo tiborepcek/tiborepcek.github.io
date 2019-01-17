@@ -1,3 +1,26 @@
 theme: jekyll-theme-leap-day
+url: "https://tiborepcek.github.io"
+baseurl: ""
 title: Tibor Repček @ GitHub
 description: Skúšam Jekyll :)
+
+navbar-links:
+  About Me: "https://tiborepcek.com/o-mne/"
+  Vyučovanie:
+    - Tabuľa: "https://github.com/tiborepcek/tabula"
+    - Skriptovanie 1: "https://github.com/tiborepcek/bat"
+    - Skriptovanie 2: "https://github.com/tiborepcek/autoit"
+    - Programovanie: "https://github.com/tiborepcek/python"
+  Štúdium:
+    - GIF words: "https://github.com/tiborepcek/GIF-words"
+    - ActiveWindowsStats: "https://github.com/tiborepcek/ActiveWindowsStat"
+    - Under Construction: "https://github.com/tiborepcek/under-construction/blob/master/index.html"
+  AutoIt:
+    - Sčítavanie a odčítavanie: "https://github.com/tiborepcek/scitavanie-odcitavanie"
+    - Malá násobilka: "https://github.com/tiborepcek/mala-nasobilka"
+    - InputBlocker: "https://github.com/tiborepcek/inputblocker"
+    - Total Commander Paranoia: "https://github.com/tiborepcek/TCP"
+  Kreatíva:
+    - Zverinec: https://github.com/tiborepcek/zverinec
+    - Farby: "https://github.com/tiborepcek/farby"
+    - Čísla: "https://github.com/tiborepcek/cisla"
