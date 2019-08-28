@@ -1,3 +1,0 @@
-# tiborepcek.github.io
-
-Stránka sa pripravuje...
